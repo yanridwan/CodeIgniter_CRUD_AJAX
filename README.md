@@ -1,1 +1,3 @@
-# CodeIgniter_CRUD_AJAX
+# Tutorial CRUD AJAX CodeIgniter
+
+by Yan Ridwan
